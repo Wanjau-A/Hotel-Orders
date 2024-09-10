@@ -9,6 +9,7 @@ MENU = {
     "Taco": 300,
     "Smocha": 100
     "Smoothie": 300
+    "Githeri" : 80
 }
 
 
